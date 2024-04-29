@@ -1,0 +1,35 @@
+<svg width="34" height="33" viewBox="0 0 34 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="o441sxe7xa" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="34" height="33">
+        <path fill="#fff" d="M.345 0h32.967v32.967H.345z"/>
+    </mask>
+    <g filter="url(#24xi3gnfcb)" mask="url(#o441sxe7xa)">
+        <path d="M29.412 16.484c0 6.95-5.634 12.583-12.583 12.583-6.95 0-12.583-5.633-12.583-12.583S9.879 3.901 16.829 3.901s12.583 5.634 12.583 12.583z" fill="url(#q99pya27wc)"/>
+        <path d="M29.412 16.484c0 6.95-5.634 12.583-12.583 12.583-6.95 0-12.583-5.633-12.583-12.583S9.879 3.901 16.829 3.901s12.583 5.634 12.583 12.583z" fill="url(#b9yz76t66d)"/>
+        <ellipse cx="12.082" cy="10.453" rx="1.604" ry="1.814" fill="#7F2F17"/>
+        <ellipse cx="21.577" cy="10.453" rx="1.604" ry="1.814" fill="#7F2F17"/>
+        <path d="M22.58 15.196c.595 0 1.086.486.989 1.074-.5 3.021-3.073 5.755-6.74 5.755-3.727 0-6.324-2.26-6.763-5.753-.074-.59.417-1.076 1.012-1.076H22.58z" fill="url(#ol22rmhwue)"/>
+    </g>
+    <defs>
+        <radialGradient id="q99pya27wc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-121.418 18.348 6.58) scale(23.0966 24.0358)">
+            <stop stop-color="#FF9D41"/>
+            <stop offset="1" stop-color="#FFD75C"/>
+        </radialGradient>
+        <radialGradient id="b9yz76t66d" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.93278 14.75848 -12.59416 7.62279 12.296 10.037)">
+            <stop stop-color="#FFEFA5"/>
+            <stop offset="1" stop-color="#FFE25E" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="ol22rmhwue" x1="17.252" y1="15.27" x2="17.252" y2="21.852" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF3E12"/>
+            <stop offset="1" stop-color="#FF7D16" stop-opacity=".9"/>
+        </linearGradient>
+        <filter id="24xi3gnfcb" x="-.067" y="-.411" width="33.791" height="33.791" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="2.156"/>
+            <feColorMatrix values="0 0 0 0 1 0 0 0 0 0.780392 0 0 0 0 0 0 0 0 0.3 0"/>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1385_7193"/>
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow_1385_7193" result="shape"/>
+        </filter>
+    </defs>
+</svg>
